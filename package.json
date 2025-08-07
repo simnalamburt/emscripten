@@ -1,11 +1,11 @@
 {
   "private": true,
   "devDependencies": {
-    "es-check": "^6.1.1",
+    "es-check": "^9.2.0",
     "eslint": "^8.6.0",
     "eslint-config-google": "^0.14.0",
     "source-map": "0.7.3",
-    "ws": "^8.5.0"
+    "ws": "^8.17.1"
   },
   "dependencies": {
     "acorn": "^8.7.0",
